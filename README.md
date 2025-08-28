@@ -277,7 +277,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [<img src="https://github.com/caio2203.png" width="40" height="40" style="border-radius:50%"> @caio2203](https://github.com/caio2203) especialista em Linux e engenheiro de dados
+Desenvolvido por [@caio2203](https://github.com/caio2203) especialista em Linux e engenheiro de dados
 
 ## 🙏 Agradecimentos
 
