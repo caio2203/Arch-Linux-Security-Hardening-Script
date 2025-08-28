@@ -277,7 +277,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [@caio2203](https://github.com/caio2203) especialista em Linux e engenheiro de dados
+Desenvolvido por [<img src="https://github.com/caio2203.png" width="40" height="40" style="border-radius:50%"> @caio2203](https://github.com/caio2203) especialista em Linux e engenheiro de dados
 
 ## 🙏 Agradecimentos
 
@@ -286,12 +286,6 @@ Desenvolvido por [@caio2203](https://github.com/caio2203) especialista em Linux 
 - Desenvolvedores do nftables
 - Contribuidores do projeto AIDE
 - Todos que reportaram bugs e sugeriram melhorias
-
-## 📞 Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/arch-hardening-script/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/seu-usuario/arch-hardening-script/discussions)
-- **Wiki**: [Documentação Avançada](https://github.com/seu-usuario/arch-hardening-script/wiki)
 
 ---
 
